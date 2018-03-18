@@ -19,7 +19,7 @@
     "collect-stream": "^1.2.1",
     "feed": "^0.3.0",
     "feedparser": "^1.1.4",
-    "hyperdrive": "^8.0.1",
+    "hyperdrive": "^9.12.3",
     "moment": "^2.15.1",
     "pump": "^1.0.2",
     "request": "^2.81.0",
@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "faucet": "0.0.1",
-    "random-access-memory": "^2.3.0",
+    "random-access-memory": "^2.4.0",
     "rss": "^1.2.1",
     "tape": "^4.6.0"
   }
